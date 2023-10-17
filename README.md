@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RedHermitStudios
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity && C#
+- 👀 I’m interested in game development, NLP, ML, AI, LLM, etc.
+- 🌱 I’m currently learning Unity && C#, Python, and AI/NLP related topics
 - 📫 How to reach me: tim@redhermit.com
 
 <!---
